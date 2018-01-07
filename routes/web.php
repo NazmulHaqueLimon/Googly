@@ -12,5 +12,9 @@
 */
 
 $router->get('/', function () use ($router) {
+<<<<<<< HEAD
     return "Hello world";
+=======
+    return "hello limon";
+>>>>>>> limon
 });
